@@ -1,0 +1,15 @@
+[1] Test Class: pill Loss: 917.2369995117188 Accuracy: 0.654411792755127
+[1] Test Class: toothbrush Loss: 611.6634521484375 Accuracy: 0.6666666865348816
+[1] Test Class: capsule Loss: 5.993217468261719 Accuracy: 0.667682945728302
+[1] Test Class: zipper Loss: 812.9926147460938 Accuracy: 0.6545960903167725
+[1] Test Class: leather Loss: 0.5888853669166565 Accuracy: 0.7270029783248901
+[1] Test Class: wood Loss: 0.5095350742340088 Accuracy: 0.8045602440834045
+[1] Test Class: transistor Loss: 1.190126657485962 Accuracy: 0.8063241243362427
+[1] Test Class: cable Loss: 36.171363830566406 Accuracy: 0.7088607549667358
+[1] Test Class: hazelnut Loss: 0.45563632249832153 Accuracy: 0.8503254055976868
+[1] Test Class: tile Loss: 0.588701069355011 Accuracy: 0.7292993664741516
+[1] Test Class: grid Loss: 6.180233001708984 Accuracy: 0.822429895401001
+[1] Test Class: carpet Loss: 15.15137004852295 Accuracy: 0.6802167892456055
+[1] Test Class: metal_nut Loss: 0.8410929441452026 Accuracy: 0.7028753757476807
+[1] Test Class: bottle Loss: 0.5416063666343689 Accuracy: 0.7720588445663452
+[1] Test Class: screw Loss: 241.08261108398438 Accuracy: 0.6833713054656982
